@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+<!-- HOMEPAGE - MAXIMUM PRIORITY FOR #1 RANKING -->
+<url>
+  <loc>https://myrehabcentre.com/</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.0</priority>
+  <mobile:mobile/>
+  <image:image>
+    <image:loc>https://myrehabcentre.com/images/addiction-treatment-center-homepage.jpg</image:loc>
+    <image:caption>Professional addiction treatment center facility with licensed medical professionals</image:caption>
+    <image:title>My Rehab Centre - Leading Addiction Treatment Center</image:title>
+  </image:image>
+</url>
+
+<!-- HIGH-VOLUME SUBSTANCE ADDICTION KEYWORDS -->
+<url>
+  <loc>https://myrehabcentre.com/solution/alcohol</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.95</priority>
+  <mobile:mobile/>
+  <image:image>
+    <image:loc>https://myrehabcentre.com/images/alcohol-addiction-treatment-programs.jpg</image:loc>
+    <image:caption>Professional alcohol addiction treatment and recovery programs with medical supervision</image:caption>
+  </image:image>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/drugs</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.95</priority>
+  <mobile:mobile/>
+  <image:image>
+    <image:loc>https://myrehabcentre.com/images/drug-addiction-treatment-center.jpg</image:loc>
+    <image:caption>Evidence-based drug addiction treatment center with licensed medical professionals</image:caption>
+  </image:image>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/nicotine</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/cocaine</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/heroin</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.90</priority>
+  <mobile:mobile/>
+</url>
+
+<!-- BEHAVIORAL ADDICTION KEYWORDS -->
+<url>
+  <loc>https://myrehabcentre.com/solution/smartphone</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/internet</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/socialmedia</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<!-- MENTAL HEALTH & EMOTIONAL ADDICTION KEYWORDS -->
+<url>
+  <loc>https://myrehabcentre.com/solution/anxiety</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/overthinking</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/depressionloops</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/perfectionism</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.85</priority>
+  <mobile:mobile/>
+</url>
+
+<!-- OTHER BEHAVIORAL ADDICTIONS -->
+<url>
+  <loc>https://myrehabcentre.com/solution/pornography</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/sex</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/shopping</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/fastfood</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/solution/coffee</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+  <mobile:mobile/>
+</url>
+
+<!-- SUPPORT & INFORMATION PAGES -->
+<url>
+  <loc>https://myrehabcentre.com/about</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/contact</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.70</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/treatment-programs</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.75</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/medical-team</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.75</priority>
+  <mobile:mobile/>
+</url>
+
+<url>
+  <loc>https://myrehabcentre.com/insurance-coverage</loc>
+  <lastmod>2025-09-04T22:00:00+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.75</priority>
+  <mobile:mobile/>
+</url>
+
+</urlset>

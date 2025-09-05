@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- GOOGLE ANALYTICS 4 - CRITICAL FOR SEO DATA -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  gtag('config', 'GA_MEASUREMENT_ID', {
+    page_title: document.title,
+    page_location: window.location.href,
+    custom_map: {
+      'dimension1': 'addiction_type',
+      'dimension2': 'treatment_category',
+      'dimension3': 'user_location',
+      'dimension4': 'lead_source'
+    },
+    // ENHANCED ECOMMERCE FOR CONVERSION TRACKING
+    send_page_view: true,
+    anonymize_ip: true
+  });
+  
+  // TRACK ADDICTION-SPECIFIC EVENTS FOR SEO INSIGHTS
+  function trackAddictionView(addictionType, category) {
+    gtag('event', 'addiction_page_view', {
+      'event_category': 'engagement',
+      'addiction_type': addictionType,
+      'treatment_category': category,
+      'page_title': document.title,
+      'user_engagement': true
+    });
+  }
+  
+  // TRACK PHONE CALLS FOR CONVERSION DATA
+  function trackPhoneCall() {
+    gtag('event', 'phone_call_click', {
+      'event_category': 'conversion',
+      'event_label': 'crisis_helpline',
+      'value': 1,
+      'currency': 'USD'
+    });
+  }
+
+  // TRACK FORM SUBMISSIONS
+  function trackFormSubmission(formType) {
+    gtag('event', 'form_submission', {
+      'event_category': 'conversion',
+      'event_label': formType,
+      'value': 1
+    });
+  }
+
+  // TRACK CTA BUTTON CLICKS
+  function trackCTAClick(ctaName) {
+    gtag('event', 'cta_click', {
+      'event_category': 'engagement',
+      'event_label': ctaName
+    });
+  }
+</script>
+
+<!-- GOOGLE SEARCH CONSOLE VERIFICATION -->
+<meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" />
+
+<!-- BING WEBMASTER TOOLS VERIFICATION -->  
+<meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE" />
+
+<!-- FACEBOOK DOMAIN VERIFICATION -->
+<meta name="facebook-domain-verification" content="YOUR_FB_VERIFICATION_CODE" />
+
+<!-- PRELOAD CRITICAL RESOURCES FOR PERFORMANCE -->
+<link rel="preload" href="/fonts/inter-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/critical.css" as="style">
+<link rel="preload" href="/js/main.js" as="script">
+
+<!-- DNS PREFETCH FOR EXTERNAL RESOURCES -->
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+
+<!-- PRECONNECT FOR CRITICAL RESOURCES -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- FAVICON AND APP ICONS -->
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0ea5e9">
+
+<!-- PWA MANIFEST -->
+<link rel="manifest" href="/manifest.json" />
+<meta name="theme-color" content="#0ea5e9" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="My Rehab Centre" />
+
+<!-- STRUCTURED DATA TESTING -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "My Rehab Centre Treatment Finder",
+  "url": "https://myrehabcentre.com",
+  "applicationCategory": "HealthApplication",
+  "operatingSystem": "Web Browser",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "featureList": [
+    "Addiction Treatment Locator",
+    "Professional Recovery Programs", 
+    "24/7 Crisis Support",
+    "Insurance Verification",
+    "Licensed Medical Professionals"
+  ],
+  "author": {
+    "@type": "Organization",
+    "name": "My Rehab Centre"
+  }
+}
+</script>
+</head>
+<body>
+    
+</body>
+</html>

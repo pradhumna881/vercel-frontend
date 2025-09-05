@@ -1,0 +1,101 @@
+{
+  "name": "My Rehab Centre - Professional Addiction Treatment Center",
+  "short_name": "My Rehab Centre",
+  "description": "Leading addiction treatment center with licensed medical professionals, evidence-based recovery programs, and 24/7 crisis support. SAMHSA certified.",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["health", "medical", "lifestyle", "wellness", "recovery"],
+  "lang": "en-US",
+  "scope": "/",
+  "id": "myrehabcentre-addiction-treatment",
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96", 
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Emergency Crisis Helpline",
+      "short_name": "Crisis Help",
+      "description": "Call 24/7 addiction crisis support and intervention",
+      "url": "tel:+1-800-RECOVERY",
+      "icons": [{ "src": "/icons/emergency-crisis-icon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Find Addiction Treatment",
+      "short_name": "Find Treatment",
+      "description": "Find professional addiction treatment programs near you",
+      "url": "/#addiction-types",
+      "icons": [{ "src": "/icons/treatment-finder-icon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Insurance Verification",
+      "short_name": "Insurance",
+      "description": "Verify your insurance coverage for addiction treatment",
+      "url": "/insurance-coverage",
+      "icons": [{ "src": "/icons/insurance-icon.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Medical Detox Programs",
+      "short_name": "Detox Help",
+      "description": "Professional medical detox with 24/7 supervision",
+      "url": "/treatment-programs/detox",
+      "icons": [{ "src": "/icons/detox-program-icon.png", "sizes": "96x96" }]
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "webapp",
+      "url": "https://myrehabcentre.com"
+    }
+  ],
+  "prefer_related_applications": false
+}
